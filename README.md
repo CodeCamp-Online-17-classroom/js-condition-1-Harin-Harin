@@ -14,6 +14,7 @@ console.log(NaN == NaN);
 console.log(NaN === NaN);
 ```
 ```Shell
+Result
 console.log('1' > 4);  false
 console.log('' <= 1);   true
 console.log('apple' > 'pineapple');  false
